@@ -9,7 +9,11 @@ h1{
     color:black;
 }
 
-.orgc{
+h2{
+    font-size:40px
+}
+
+.orange-color{
     color: orange;
 }
 
@@ -49,4 +53,22 @@ h1{
     background-repeat:no-repeat;
     background-position: right;
     
+}
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat:no-repeat;
+    background-position: left;
+}
+
+.experience-item{
+    width:40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border: radius 10px;px;
+    box-shadow: 10px 10px 40px gray;
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    -ms-border-radius:10px;
+    -o-border-radius:10px;
 }
