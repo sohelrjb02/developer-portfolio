@@ -1,7 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0%;
-    
+     
 }
 
 h1{
@@ -71,4 +71,16 @@ h2{
     -moz-border-radius:10px;
     -ms-border-radius:10px;
     -o-border-radius:10px;
+}
+
+#baby-web-developer{
+    border-left:7px solid blue;
+}
+
+#full-stack-developer{
+    border-left:7px solid tomato;
+}
+footer p{
+    text-align:center;
+    margin-bottom: 50px;
 }
